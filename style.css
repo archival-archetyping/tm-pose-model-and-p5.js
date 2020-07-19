@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
